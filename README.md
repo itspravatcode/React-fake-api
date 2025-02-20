@@ -9,6 +9,6 @@ This is a simple **React-based** application that fetches and displays posts fro
 - **Add New Posts**: Users can add new posts (stored temporarily in state).  
 
 
-## 🛠️ Technologies Used  
+## Demo
 
-- **React (Vite)**
+https://github.com/user-attachments/assets/d97d408e-6446-4e24-8b98-a8f58fbdc876
